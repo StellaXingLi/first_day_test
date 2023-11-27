@@ -1,1 +1,1 @@
-![add a supermario image](/mario03.png)
+![showing a supermario image](/mario03.png)
